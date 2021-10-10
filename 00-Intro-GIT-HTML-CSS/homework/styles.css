@@ -1,0 +1,16 @@
+.hd {color: darkred;}
+.img {width: 400px;
+height: auto;}
+ 
+#thirdDiv {width: 400px;
+             height: 600px;
+        background-color: darkkhaki;
+        padding: 50px;
+        border:darkred 5px solid;
+        }
+#spanId {font-size: 25px;
+        margin: 50px;}
+
+
+
+
